@@ -1,9 +1,9 @@
 # Site Info
-title: Test Blog
+title: 나의 원피스는 어디에 있을까 ?
 tagline: ''
 description: 'Developer'
 baseurl: ""
-url: http://127.0.0.1:4000 #https://wyjung.github.io
+url: https://wyjung.github.io
 logo: '/public/logo.png'
 
 # Site configurations
@@ -24,7 +24,7 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: test
+  name: 해적왕
   description: Developer
   #gravatar:  # md5 hash of your email address
   contact:
@@ -33,7 +33,7 @@ author:
     # facebook:  <hide>
     # twitter:
     # weibo:
-    email: wyjung84@gamil.com
+    email: mailto:wyjung84@gamil.com
 
 # Navigation (2nd level links supported)
 nav:
